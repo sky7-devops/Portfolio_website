@@ -42,3 +42,34 @@
         font-size: 1.6rem;
     }
 }
+/* ===========================
+   Navigation
+=========================== */
+
+@media (max-width: 768px) {
+
+    .menu-toggle {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-menu {
+    display: none;
+}
+
+.nav-menu.active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #111827;
+    padding: 20px 0;
+    text-align: center;
+    gap: 20px;
+}
+.navbar {
+    position: relative;
+}
+}

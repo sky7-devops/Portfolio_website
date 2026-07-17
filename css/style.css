@@ -86,6 +86,29 @@ body{
 
 }
 /* ===========================
+   Mobile Menu Toggle
+=========================== */
+
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.menu-toggle span {
+    display: block;
+    width: 28px;
+    height: 3px;
+    background: white;
+    border-radius: 2px;
+}
+
+/* ===========================
    Hero Section
 =========================== */
 

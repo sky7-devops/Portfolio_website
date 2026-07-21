@@ -118,13 +118,16 @@ Some things I want to add in the future:
 
 ## Screenshots
 
-I'll add screenshots of:
 
-- Portfolio Website
-- GitHub Actions Workflow
-- Amazon S3 Bucket
-- CloudFront Distribution
+ ## GitHub Actions Workflow
 
+![GitHub Actions](assets/screenshots/github-actions.png)
+## Amazon S3
+
+![Amazon S3](assets/screenshots/s3-bucket.png)
+## CloudFront Distribution
+
+![CloudFront](assets/screenshots/cloudfront.png)
 ---
 
 ## Connect with Me
@@ -134,5 +137,3 @@ I'll add screenshots of:
 - GitHub: https://github.com/sky7-devops
 - LinkedIn: https://www.linkedin.com/in/gagan-biswas/
 - Portfolio: https://papersless.xyz
-
-[def]: screenshots/homepage.png

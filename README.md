@@ -7,7 +7,7 @@ The main goal of this project was to understand how code can automatically move 
 ---
 ## Portfolio Website
 
-![Portfolio Homepage](screenshots/homepage.png)
+![Portfolio Homepage][assets/screenshots/homepage.png]
 
 ## What this project does
 
@@ -134,3 +134,5 @@ I'll add screenshots of:
 - GitHub: https://github.com/sky7-devops
 - LinkedIn: https://www.linkedin.com/in/gagan-biswas/
 - Portfolio: https://papersless.xyz
+
+[def]: screenshots/homepage.png

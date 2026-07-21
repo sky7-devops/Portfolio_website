@@ -7,7 +7,7 @@ The main goal of this project was to understand how code can automatically move 
 ---
 ## Portfolio Website
 
-![Portfolio Homepage][assets/screenshots/homepage.png]
+![Portfolio Homepage](assets/screenshots/homepage.png)
 
 ## What this project does
 
